@@ -28,3 +28,4 @@ print(f"{a} // {b} = {a//b}")
 
 print(f"{a} % {b} = {a%b}")
 # 15 % 2 = 1
+print(f"{a}/{b})
