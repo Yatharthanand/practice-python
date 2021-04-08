@@ -6,6 +6,9 @@ def print_star_triangle(n):
 def main():
     for i in range(5,0,-1):
         print_star_triangle(i)
+    for i in range(5):
+           print_star_triangle(i+1)
+           
 
 main()
 
